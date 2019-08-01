@@ -13,7 +13,9 @@
 
 試著達成良英的需求，並期望良英股份有限公司能走出台灣，將觸控模組促銷到國外。
 
+## 運用實例
+### 1. [藝術繪畫展覽廣告軟體] 王國和老師之國風書畫展
 ### Demo影片：http://www.magictouch.com.tw/files/MOVIED1.mp4
-
-<img src="http://www.magictouch.com.tw/files/p_151229_08024.png" data-canonical-src="http://www.magictouch.com.tw/files/MOVIED1.mp4" width="300" />
+### 2. [美食餐廳廣告軟體] 銀座日式料理
+### Demo影片：http://www.magictouch.com.tw/files/MOVIED2.mp4
 
