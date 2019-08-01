@@ -15,5 +15,5 @@
 
 ### Demo影片：http://www.magictouch.com.tw/files/MOVIED1.mp4
 
-[![IMAGE ALT TEXT HERE](http://www.magictouch.com.tw/files/%E8%A7%B8%E6%8E%A7%E6%A8%A1%E7%B5%8442%E7%9B%B4%E7%AB%8B.jpg| width=100)](hhttp://www.magictouch.com.tw/files/MOVIED1.mp4)
+<img src="http://www.magictouch.com.tw/files/p_151229_08024.png" data-canonical-src="http://www.magictouch.com.tw/files/MOVIED1.mp4" width="300" />
 
