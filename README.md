@@ -11,10 +11,9 @@
 - 提供直立式、水平式顯示樣式
 - 圖片瀏覽採混合式(自動、互動)
 
-運動與交友的結合
-打破虛實的交友任務
-穿戴式裝置心率的應用
-試著解決交友軟體上的缺點，並期望校園中不同學院的學生們能走出自己的學院，認識更多異性，或是激發更多運動動機。
+試著達成良英的需求，並期望良英股份有限公司能走出台灣，將觸控模組促銷到國外。
 
-Demo影片：https://youtu.be/h5iO0Kkj8YY
+### Demo影片：hhttp://www.magictouch.com.tw/files/MOVIED1.mp4
+
+[![IMAGE ALT TEXT HERE](hhttp://www.magictouch.com.tw/files/MOVIED1.mp4)
 
